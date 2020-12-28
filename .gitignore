@@ -1,0 +1,5 @@
+.azure_key 
+.ipynb_checkpoints/
+.models/
+# Training data
+waifus/
